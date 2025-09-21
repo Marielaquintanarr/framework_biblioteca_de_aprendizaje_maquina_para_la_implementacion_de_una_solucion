@@ -48,3 +48,7 @@ Se mostrará:
 El valor de R² del modelo.
 
 El ranking de países con mayor probabilidad de ganar en una gráfica.
+
+**Fuentes**
+---
+FIFA World Cup match stats. (2021, July 1). Kaggle. https://www.kaggle.com/datasets/kaito510/fifa-world-cup-match-stats
